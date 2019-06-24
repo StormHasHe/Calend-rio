@@ -1,0 +1,9 @@
+C:\Projetos\Calendario\API2\src\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Projetos\Calendario\API2\src\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Projetos\Calendario\API2\src\Contracts\bin\Debug\Contracts.dll
+C:\Projetos\Calendario\API2\src\Contracts\bin\Debug\Contracts.pdb
+C:\Projetos\Calendario\API2\src\Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projetos\Calendario\API2\src\Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projetos\Calendario\API2\src\Contracts\obj\Debug\Contracts.csproj.CopyComplete
+C:\Projetos\Calendario\API2\src\Contracts\obj\Debug\Contracts.dll
+C:\Projetos\Calendario\API2\src\Contracts\obj\Debug\Contracts.pdb

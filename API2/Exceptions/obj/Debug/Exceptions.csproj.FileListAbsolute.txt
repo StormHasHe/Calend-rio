@@ -1,0 +1,6 @@
+C:\Projetos\Calendario\API2\Exceptions\bin\Debug\Exceptions.dll
+C:\Projetos\Calendario\API2\Exceptions\bin\Debug\Exceptions.pdb
+C:\Projetos\Calendario\API2\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Projetos\Calendario\API2\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Projetos\Calendario\API2\Exceptions\obj\Debug\Exceptions.dll
+C:\Projetos\Calendario\API2\Exceptions\obj\Debug\Exceptions.pdb

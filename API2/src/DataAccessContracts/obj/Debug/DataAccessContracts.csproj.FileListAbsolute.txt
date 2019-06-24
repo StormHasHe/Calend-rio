@@ -1,0 +1,11 @@
+C:\Projetos\Calendario\API2\src\DataAccessContracts\obj\Debug\DataAccessContracts.csprojResolveAssemblyReference.cache
+C:\Projetos\Calendario\API2\src\DataAccessContracts\obj\Debug\DataAccessContracts.csproj.CoreCompileInputs.cache
+C:\Projetos\Calendario\API2\src\DataAccessContracts\bin\Debug\DataAccessContracts.dll
+C:\Projetos\Calendario\API2\src\DataAccessContracts\bin\Debug\DataAccessContracts.pdb
+C:\Projetos\Calendario\API2\src\DataAccessContracts\bin\Debug\Contracts.dll
+C:\Projetos\Calendario\API2\src\DataAccessContracts\bin\Debug\Entities.dll
+C:\Projetos\Calendario\API2\src\DataAccessContracts\bin\Debug\Entities.pdb
+C:\Projetos\Calendario\API2\src\DataAccessContracts\bin\Debug\Contracts.pdb
+C:\Projetos\Calendario\API2\src\DataAccessContracts\obj\Debug\DataAccessContracts.csproj.CopyComplete
+C:\Projetos\Calendario\API2\src\DataAccessContracts\obj\Debug\DataAccessContracts.dll
+C:\Projetos\Calendario\API2\src\DataAccessContracts\obj\Debug\DataAccessContracts.pdb
